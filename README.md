@@ -28,12 +28,19 @@ I love working on challenging projects and contributing to the tech community th
 
 ---
 
-## 💡 Featured Projects  
-🔹 **☕ Coffee Machine Simulation in C**  
-🔹 **🖼️ Image Classification with Deep Learning** *(92% accuracy, TensorFlow & Flask)*  
-🔹 **📊 Sales Forecasting Model** *(90% accuracy using Prophet)*  
+## 🚀 Projects  
 
-👉 Check out my projects [here](https://github.com/yourgithubprofile) 🚀  
+### 💡 **Innovative Software Solutions**  
+- 🎵 **Music Platform in Java** – Designed an interactive app for discovering, searching, and listening to music  
+- 🍽️ **Recipe Website** – Built a feature-rich recipe database with advanced search & filtering  
+- 🏥 **Parapharmacy Website** – Developed a health & wellness catalog with an engaging user interface  
+- ☕ **Coffee Machine in C** – Engineered a smart system to manage coffee stocks & dynamically adjust temperatures  
+
+### 🤖 **AI & IoT Applications**  
+- 🖼 **Neural Network for Image Classification** – Developed a deep learning model with TensorFlow & Keras  
+- 📊 **Text Analysis with Logistic Regression** – Competed in a Kaggle NLP challenge using ML techniques  
+- 🔬 **IoT with Raspberry Pi** – Programmed LED blinking & real-time temperature detection  
+
 
 ---
 
@@ -53,6 +60,12 @@ I love working on challenging projects and contributing to the tech community th
 ✅ **Elements of AI** – University of Helsinki  
 ✅ **Threats to Encryption** – Internet of Society  
 
+---
+
+## 🌍 Languages  
+- 🏅 **Arabic** (Native)  
+- 🏅 **English** (Advanced - C1)  
+- 🏅 **French** (Upper Intermediate - B2)  
 
 ---
 
