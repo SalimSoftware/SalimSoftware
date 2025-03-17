@@ -78,9 +78,9 @@ I love working on challenging projects and contributing to the tech community th
 
 
 ## 🤝 Let's Connect!  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)  
+💼 **LinkedIn**: [Salim EL GHERSSE](https://www.linkedin.com/in/salim-el-ghersse-4567a828a)  
 📧 **Email**: selghersse@gmail.com  
-🚀 **GitHub**: [github.com/yourgithubprofile](https://github.com)  
+
 
 ---
 
