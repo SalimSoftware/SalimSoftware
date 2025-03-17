@@ -53,7 +53,16 @@ I love working on challenging projects and contributing to the tech community th
 ✅ **Elements of AI** – University of Helsinki  
 ✅ **Threats to Encryption** – Internet of Society  
 
+
 ---
+
+## 🎭 Interests  
+
+- 🤝 Member of **Lions Club** at AUI  
+- 🌍 Member of **Extreme sports association Club** at AUI
+  
+---
+
 
 ## 🤝 Let's Connect!  
 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)  
