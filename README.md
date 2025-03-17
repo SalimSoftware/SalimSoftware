@@ -28,12 +28,18 @@ I love working on challenging projects and contributing to the tech community th
 
 ---
 
-## 💡 Featured Projects  
-🔹 **☕ Coffee Machine Simulation in C**  
-🔹 **🖼️ Image Classification with Deep Learning** *(92% accuracy, TensorFlow & Flask)*  
-🔹 **📊 Sales Forecasting Model** *(90% accuracy using Prophet)*  
+## 🚀 Projects  
 
-👉 Check out my projects [here](https://github.com/yourgithubprofile) 🚀  
+### 🔥 **Software Development & AI Projects**  
+- ☕ **Coffee Machine in C** – Manages coffee stocks & dynamically adjusts temperatures  
+- 🎵 **Music Platform in Java** – Interactive app for exploring, searching & listening to music  
+- 🍽️ **Recipe Website** – Interactive database with search & filtering features  
+- 🏥 **Parapharmacy Website** – Health & wellness product catalog with interactive UI  
+
+### 🤖 **IoT & Machine Learning Projects**  
+- 🔬 **Raspberry Pi IoT** – LED blinking & real-time temperature detection  
+- 🖼 **Image Classification with Neural Networks** – Deep learning model using TensorFlow & Keras  
+- 📊 **Logistic Regression - NLP Kaggle Competition** – Applied ML techniques for text analysis  
 
 ---
 
@@ -55,10 +61,23 @@ I love working on challenging projects and contributing to the tech community th
 
 ---
 
+## 🌍 Languages  
+- 🏅 **Arabic** (Native)  
+- 🏅 **English** (Advanced - C1)  
+- 🏅 **French** (Upper Intermediate - B2)
+
+---
+
+## 🎭 Interests   
+- 🤝 Member of **Lions Club** at AUI  
+- 🌍 Member of **Extreme sports association Club** at AUI 
+
+---
+
 ## 🤝 Let's Connect!  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)  
+💼 **LinkedIn**: [Salim EL GHERSSE](https://www.linkedin.com/in/salim-el-ghersse-4567a828a) 
 📧 **Email**: selghersse@gmail.com  
-🚀 **GitHub**: [github.com/yourgithubprofile](https://github.com)  
+
 
 ---
 
